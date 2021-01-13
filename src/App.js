@@ -8,7 +8,7 @@ class ZipInfo extends Component {
     this.state = {
       getSuccess: true,
       firstPage: true,
-      zipCode: "Try 11102",
+      zipCode: "Try 10016",
       data: [
             {
                 LocationText: "CityName",
